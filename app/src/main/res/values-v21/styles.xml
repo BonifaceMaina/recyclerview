@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    for those with api 21 and above-->
+    <style name="MaterialTheme" parent="ParentMaterialTheme">
+
+    </style>
+</resources>
